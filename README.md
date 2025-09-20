@@ -25,8 +25,8 @@ Bot Telegram đơn giản giúp bạn **tự động hóa công việc** trên T
 
 ### 2.Clone Repo  
 ```bash
-git clone https://github.com/TNTxTrick/Project-TNT.git
-cd Project-TNT
+git clone https://github.com/sweep207/Project-Telegram.git
+cd Project-Telegram
 ```
 <div align="center">
 
