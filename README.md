@@ -54,8 +54,8 @@ Hehe~ another cutie has been caught.
 ## **📫 Contact**
 **You can also email me here:** dangtoanvu07@gmail.com
 
-[![](https://img.shields.io/github/followers/TNTxTrick?label=Followers&style=social)](https://github.com/TNTxTrick)
-[![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/1304986241262948404)
-[![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:tntxtrick@gmail.com)
-[![](https://img.shields.io/badge/Telegram-2ca5e0?logo=telegram&logoColor=white)](https://t.me/tntxtrick)
-[![](https://img.shields.io/badge/YouTube-FF0000?logo=YouTube&logoColor=white)](https://youtube.com/@tntxtrick?si=Kz8Vyvfm3Ui6MB8S) 
+[![](https://img.shields.io/github/followers/TNTxTrick?label=Followers&style=social)](https://github.com/sweep207)
+[![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/ptmAzJdF)
+[![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:dangtoanvu07@gmail.com)
+[![](https://img.shields.io/badge/Telegram-2ca5e0?logo=telegram&logoColor=white)](https://t.me/sweep207)
+[![](https://img.shields.io/badge/YouTube-FF0000?logo=YouTube&logoColor=white)](https://www.youtube.com/@sweep207) 
